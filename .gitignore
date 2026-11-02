@@ -1,0 +1,6 @@
+# Temporary files and OS caches
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
