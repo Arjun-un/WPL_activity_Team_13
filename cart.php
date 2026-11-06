@@ -33,7 +33,7 @@ if ($action === 'add') {
         if (isset($_SESSION['cart'][$product_id])) {
             $_SESSION['cart'][$product_id] += $qty;
         } else {
-            $_SESSION['cart'][$product_id] = $qty;21q  =-[PL],
+            $_SESSION['cart'][$product_id] = $qty;
         }
         header("Location: cart.php?msg=" . urlencode("Item added to your shopping bag!"));
         exit;
