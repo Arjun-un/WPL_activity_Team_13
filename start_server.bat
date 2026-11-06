@@ -17,3 +17,4 @@ if exist "%PHP_BIN%" (
     php -S localhost:8000
 )
 pause
+

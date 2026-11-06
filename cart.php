@@ -33,7 +33,7 @@ if ($action === 'add') {
         if (isset($_SESSION['cart'][$product_id])) {
             $_SESSION['cart'][$product_id] += $qty;
         } else {
-            $_SESSION['cart'][$product_id] = $qty;
+            $_SESSION['cart'][$product_id] = $qty;21q  =-[PL],
         }
         header("Location: cart.php?msg=" . urlencode("Item added to your shopping bag!"));
         exit;
@@ -335,3 +335,4 @@ require_once __DIR__ . '/includes/header.php';
 </main>
 
 <?php require_once __DIR__ . '/includes/footer.php'; ?>
+

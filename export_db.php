@@ -28,3 +28,4 @@ echo "<p>Users: " . count($export['collections']['users']) . "</p>";
 echo "<p>Products: " . count($export['collections']['products']) . "</p>";
 echo "<p>Orders: " . count($export['collections']['orders']) . "</p>";
 ?>
+

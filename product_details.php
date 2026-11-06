@@ -171,3 +171,4 @@ $related = get_db_records('products', [
 </main>
 
 <?php require_once __DIR__ . '/includes/footer.php'; ?>
+

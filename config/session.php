@@ -73,3 +73,4 @@ function get_cart_total_items() {
     return $count;
 }
 ?>
+

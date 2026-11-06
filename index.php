@@ -131,3 +131,4 @@ $featured_products = get_db_records('products', [], ['sort' => ['discount_percen
 </main>
 
 <?php require_once __DIR__ . '/includes/footer.php'; ?>
+

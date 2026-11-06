@@ -156,3 +156,4 @@ Every key customizable logic section has been highlighted in the code with clear
    - File: `cart.php` &rarr; Lines 170–190 (`coupon 'CLIQ2026'`, `delivery_fee`).
 9. **Change File CRUD Storage or Delimiter**:
    - File: `feedback.php` &rarr; Lines 18–20 (`$FILE_PATH`, `$DELIMITER = '|'`).
+

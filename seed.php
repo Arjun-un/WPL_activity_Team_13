@@ -285,3 +285,4 @@ if (!file_exists($feedback_file)) {
 echo "<hr><h3 style='color:navy;'>Database & Sample Data Seeding Completed Successfully!</h3>";
 echo "<p><a href='index.php'>Go to Homepage</a> | <a href='catalog.php'>Go to Product Catalog</a></p>";
 ?>
+

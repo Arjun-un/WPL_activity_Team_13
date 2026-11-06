@@ -205,3 +205,4 @@ $all_categories = ['Men Fashion', 'Women Fashion', 'Watches', 'Footwear', 'Elect
 </main>
 
 <?php require_once __DIR__ . '/includes/footer.php'; ?>
+
